@@ -13,6 +13,9 @@ Download gcc arm toolchain.
 
 Just watch these videos
 https://www.youtube.com/watch?v=RUdjOftHL-Y&index=2&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp
+
+
+
 https://www.youtube.com/watch?v=QgC_6R1_R-o&index=3&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIrzOp
 
 
