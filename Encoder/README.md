@@ -5,7 +5,14 @@ STM32F103 Encoder Example
 
 #include "Encoder.h"
 
+int main()
+
+{
 
 Encoder_Init();
 
 int encoder_data = read_encoder();
+
+return 0;
+
+}
