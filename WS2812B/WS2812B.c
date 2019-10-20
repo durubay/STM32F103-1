@@ -7,7 +7,7 @@ void RGB_Zero()
 	GPIOA->BSRR |= GPIO_BSRR_BS0;
 	Timer_Delay_us(0.5);
 	GPIOA->BRR |= GPIO_BRR_BR0;
-	Timer_Delay_us(1.05);
+	//Timer_Delay_us(1.05);
 	
 }
 
@@ -16,7 +16,7 @@ void RGB_One()
 	GPIOA->BSRR |= GPIO_BSRR_BS0;
 	Timer_Delay_us(1.05);
 	GPIOA->BRR |= GPIO_BRR_BR0;
-	Timer_Delay_us(0.5);
+	//Timer_Delay_us(0.5);
 	
 }
 
