@@ -1,6 +1,12 @@
-<h1> 16 x 2 LCD </h1> 
 
-<body text = "blue" bgcolor = "green">
+
+<html>
+
+   <head>
+      <title>HTML Colors by Name</title>
+   </head>
+	
+   <body text = "blue" bgcolor = "green">
       <p>Use different color names for for body and table and see the result.</p>
       
       <table bgcolor = "black">
@@ -11,3 +17,5 @@
          </tr>
       </table>
    </body>
+   
+</html>
